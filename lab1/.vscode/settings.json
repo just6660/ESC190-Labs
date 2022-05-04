@@ -1,0 +1,6 @@
+{
+  "C_Cpp.errorSquiggles": "Disabled",
+  "files.associations": {
+    "lab1.h": "c"
+  }
+}
